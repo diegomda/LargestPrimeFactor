@@ -17,12 +17,8 @@ namespace LargestPrimeFactor
                     Console.WriteLine(i);
                     Console.ReadKey();
                 }
-
             }
-
-
-
-            }
+         }
         }
     }
 
