@@ -10,7 +10,7 @@ namespace LargestPrimeFactor
     {
         static void Main(string[] args)
         {
-            for (long i = 2; i < 6857; i++)
+            for (long i = 2; i < 10000; i++)
             {
                 if (600851475143 % i == 0)
                 {
